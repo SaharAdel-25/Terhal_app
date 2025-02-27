@@ -1,10 +1,7 @@
 
 package terhal;
 
-/**
- *
- * @author s4ooo
- */
+
  class Activity {
     private int activityId; // Primary key
     private String name; // Name of the activity
