@@ -13,10 +13,7 @@ import java.sql.Types;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author s4ooo
- */
+
 class TravelPlan {
   int countryID;
   String userID;
