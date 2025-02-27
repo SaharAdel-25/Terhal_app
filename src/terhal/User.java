@@ -3,10 +3,6 @@ package terhal;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
-/**
- *
- * @author s4ooo
- */
 public class User {
     private String userId; // Primary key, unique identifier
     private String Name;
